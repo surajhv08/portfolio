@@ -1,5 +1,6 @@
 import React from 'react';
-import myImage from '../assets/aboutProfile.jpg';
+import myImage from '../assets/suraj.jpg';
+
 import { FaServer, FaCode, FaRobot } from 'react-icons/fa'; // Importing icons
 
 const About = () => {
@@ -7,7 +8,7 @@ const About = () => {
     <section id="about" className="about-section">
       <div className="about-container">
         <div className="about-image-wrapper">
-          <img src={myImage} alt="Rani" className="about-image-rectangle" />
+          <img src={myImage} alt="Suraj H V" className="about-image-rectangle" />
           </div>
         <div className="about-content">
           <h2 className="about-title">Who Am I?</h2>

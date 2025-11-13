@@ -6,9 +6,9 @@ const Experience = () => {
       <h2 className="experience-heading">Experience</h2>
 
       <div className="experience-card">
-        <p className="experience-duration">Jan 2024 – Feb 2024</p>
+        <p className="experience-duration">Feb 2025 – Sep 2025</p>
         <h3 className="experience-title">Full Stack Developer Intern</h3>
-        <p className="experience-company">Exposys Data Labs, Bangalore</p>
+        <p className="experience-company">Jspiders mysore</p>
 
         <ul className="experience-points">
           <li>Developed a full-stack web application to detect DDoS attacks using entropy computing.</li>

@@ -1,6 +1,6 @@
 import React from 'react';
-import thyroidImg from '../assets/thyroid.png';
-import plantImg from '../assets/plant.png';
+import thyroidImg from '../assets/cart.png';
+import plantImg from '../assets/RCB.png';
 import ticketBooking from '../assets/ticket-booking.png';
 
 
@@ -10,13 +10,13 @@ const Projects = () => (
     <div className="projects-container">
 
     <div className="project-card">
-        <img src={thyroidImg} alt="Thyroid Project" className="project-image" />
+        <img src={thyroidImg} alt="E-Commerce Project" className="project-image" />
         <div className="project-overlay">
-          <h3>Thyroid Disease Detection</h3>
+          <h3>E-Commerce Shopping Cart</h3>
           <p>
-            Machine learning model to detect thyroid disease using various classification algorithms.
+          Front-end shopping website developed using HTML, CSS, and JavaScript to showcase electronic items with interactive UI.
           </p>
-          <a href="https://github.com/RaniAmbiger/Thyroid-disease/tree/main/Thyroid-Disease-Detection-main" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/surajhv08/Shopping-Website" target="_blank" rel="noopener noreferrer">
             <button className="read-more">Read More</button>
           </a>
         </div>
@@ -28,24 +28,26 @@ const Projects = () => (
           <p>
             reactJS based web app to book tickets.
           </p>
-          <a href="https://github.com/RaniAmbiger/Ticcket-booking" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/surajhv08/Book-my-tickets" target="_blank" rel="noopener noreferrer">
             <button className="read-more">Read More</button>
           </a>
         </div>
       </div>
 
       <div className="project-card">
-        <img src={plantImg} alt="Plant Bubble Project" className="project-image" />
+        <img src={plantImg} alt="RCB Electronics Project" className="project-image" />
         <div className="project-overlay">
-          <h3>Plant Bubble</h3>
+          <h3>RCB Electronics</h3>
           <p>
-            ASP.Net-based web app to manage plant inventory for online plant sales.
+            A fully responsive RCB electronics shopping website built using HTML, CSS, and JavaScript, featuring product categories like laptops,
+            mobiles, and watches with interactive cards, smooth UI design, and add-to-cart functionality
           </p>
-          <a href="https://github.com/raniambiger" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/surajhv08/RCB-electronics" target="_blank" rel="noopener noreferrer">
             <button className="read-more">Read More</button>
           </a>
         </div>
       </div>
+      
 
     </div>
   </section>

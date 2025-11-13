@@ -12,12 +12,12 @@ const Footer = () => {
           <p className="contact-sub">Feel free to reach out to me!</p>
           <div className="contact-item">
             <MdEmail className="footer-icon" />
-            <a href="mailto:raniksambiger@gmail.com">raniksambiger@gmail.com</a>
+            <a href="mailto:surajvenkatesh832@gmail.com">surajvenkatesh832@gmail.com</a>
           </div>
           <div className="contact-item">
             <FaLinkedin className="footer-icon" />
-            <a href="https://www.linkedin.com/in/rani-ambiger" target="_blank" rel="noreferrer">
-              linkedin.com/in/rani-ambiger
+            <a href="www.linkedin.com/in/surajhv" target="_blank" rel="noreferrer">
+              linkedin.com/in/surajhv
             </a>
           </div>
           <div className="contact-item">

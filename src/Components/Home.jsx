@@ -14,7 +14,9 @@ const Home = () => {
           </p>
           <div className="home-buttons">
             <a href="https://www.linkedin.com/in/surajhv" className="home-btn">Contact Me</a>
-            <a href="https://drive.google.com/file/d/1AzjK_dF4IdX7B38C5KAdA5yA-VDTQkRW/view?usp=sharing" className="home-btn" target="_blank" rel="noopener noreferrer">Resume</a>
+            <a href="https://drive.google.com/file/d/1YP35qQfGFZslk1so4eZKe3E3-tua-vJq/view?usp=drivesdk" 
+            className="home-btn" target="_blank" rel="noopener noreferrer">Resume</a>
+             <a href="https://github.com/surajhv08" className="home-btn">GitHub</a>
           </div>
         </div>
         <div className="home-image-wrapper">

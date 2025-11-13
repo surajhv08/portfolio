@@ -1,36 +1,36 @@
 import React from 'react';
-import cert1 from '../assets/thyroid-certificate.jpg';
-import cert2 from '../assets/data-science-tools.jpg';
-import cert3 from '../assets/Systems-and-usable-security.jpg';
-import cert4 from '../assets/Distributed_System.jpg';
-import cert5 from '../assets/Python-for-data-science.jpg';
-import cert6 from '../assets/internship.jpg';
+import cert1 from '../assets/c1.jpg';
+import cert2 from '../assets/c2.jpg';
+import cert3 from '../assets/c3.jpg';
+import cert4 from '../assets/c4.jpg';
+import cert5 from '../assets/c5.jpg';
+import cert6 from '../assets/c6.jpg';
 
 
 const certificateData = [
   {
     image: cert1,
-    description: 'Presented research on thyroid disease detection using ML at a national-level conference in Bengaluru.'
+    description: 'Successfully completed Python for Data Science certification by Infosys Springboard, demonstrating strong analytical and coding skills using Python.'
   },
   {
     image: cert2,
-    description: 'Published a peer-reviewed paper on healthcare prediction in IJMRSET, July 2024 edition.'
+    description: 'Achieved certification in Generative AI from GUVI (HCL & Google for Education Partner), gaining expertise in AI model creation and applications.'
   },
   {
     image: cert3,
-    description: 'Explored secure system design concepts in a certified course by IIT Indore.'
+    description: 'Completed internship at QSpiders CampusConnect, trained in Core Java, J2EE, JDBC, Servlets, JSP, and OOPs concepts with practical project experience.'
   },
   {
     image: cert4,
-    description: 'Studied the core concepts of distributed computing and fault tolerance at IIT Kanpur.'
+    description: 'Earned certification from JSpiders for completing advanced training in Core Java, SQL, Web Technology, Advanced Java, and ReactJS.'
   },
   {
     image: cert5,
-    description: 'Completed an IIT Madras program focused on applying Python to data science problems.'
+    description: 'Completed the AI Skills Passport program offered by EY and Microsoft, gaining foundational and employability-focused AI skills.'
   },
   {
     image: cert6,
-    description: 'Learned mobile app development fundamentals through a hands-on Infosys Springboard course.'
+    description: 'Passed the HackerRank SQL (Intermediate) skill certification, demonstrating strong proficiency in SQL querying and database handling.'
   }
 ];
 
